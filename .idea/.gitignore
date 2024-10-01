@@ -1,0 +1,18 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Kompilowane pliki klas
+*.class
+
+# Logi
+*.log
+
+# Katalogi IDE
+/.idea/
+/.vscode/
+/target/
+/out/
+
+# Pliki konfiguracji systemu operacyjnego
+.DS_Store
+Thumbs.db
